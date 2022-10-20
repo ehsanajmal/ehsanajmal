@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>👀 I’m interested in Web Development with Node.js, Express.js, React.js, MongoDB and mongoose with Restful APIs...<br>⚡ I’m also a TOP-RATED Shopify Developer @Upwork...<br>🌱 I’m currently learning MERN Stack (ReactJS, NodeJS, Express, MongoDB) ...<br>💞️ I’m looking for help with improving my concepts of MERN Stack ...<br>📫 How to reach me: Email - (muhammadehsan673@gmail.com) ...<br>⚡ Fun fact: Spaces are better than tabs
 
 
 ## 🌐 Socials:
