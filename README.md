@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>👀 I’m interested in Web Development with Node.js, Express.js, React.js, MongoDB and mongoose with Restful APIs...<br>⚡ I can also work with other technologies like HTML, CSS, JavaScript, Bootstrap, jQuery, AJAX, PHP and MySQL...<br>⚡ I’m also a TOP-RATED Shopify Developer @Upwork...<br>🌱 I’m currently learning MERN Stack (ReactJS, NodeJS, Express, MongoDB) ...<br>💞️ I’m looking for help with improving my concepts of MERN Stack ...<br>📫 How to reach me: Email - (muhammadehsan673@gmail.com) ...<br>⚡ Fun fact: Spaces are better than tabs
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ehsan-1aa9bb190/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EhsanAjmal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Ehsan#9431)
